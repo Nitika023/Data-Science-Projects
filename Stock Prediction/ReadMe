@@ -6,10 +6,9 @@ Data
 The data used for this project is obtained from a publicly available source. The data consists of the closing stock prices for Apple over a period of time. The data is preprocessed to ensure that it is suitable for use in the predictive model.
 
 Model
-The model used for this project is a simple linear regression model. Linear regression is a common technique used for predictive modeling. The model is trained using the historical data, and the predicted stock prices for the next day are calculated based on the model's predictions.
-
+The model used for this project are: Rnn, LSTM, CONV1D and Gru
 Evaluation
-The performance of the model is evaluated using various metrics, including the mean squared error (MSE) and the R-squared score. The evaluation metrics are used to determine the accuracy of the model's predictions.
+The performance of the model is evaluated using the mean squared error (MSE) to determine the accuracy of the model's predictions.
 
 Conclusion
-The process of predicting stock prices based on historical data is a complex task that requires careful consideration of many factors. This notebook demonstrates the use of a simple linear regression model to predict the stock price for Apple based on the company's last 9 days of stock closings. The model's performance is evaluated using various metrics to ensure that it is accurate and reliable. The results of this project can be used to inform investment decisions and provide valuable insights into the stock market
+The process of predicting stock prices based on historical data is a complex task that requires careful consideration of many factors. This notebook demonstrates the use of Rnn, LSTM, CONV1D and Gru model to predict the stock price for Apple based on the company's last 9 days of stock closings. The model's performance is evaluated using mean squared error metrics to ensure that it is accurate and reliable. The results of this project can be used to inform investment decisions and provide valuable insights into the stock market
