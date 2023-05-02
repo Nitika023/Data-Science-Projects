@@ -1,0 +1,18 @@
+Text Mining - Classification for Discussion Posts in Newsgroup
+This project aims to predict the category of discussion posts in a newsgroup using text mining and classification techniques. The unit of analysis for this project is a discussion post, and the goal is to classify each post into one of several categories based on its content.
+
+Data
+The data for this project consists of a set of discussion posts from a newsgroup. The posts are preprocessed and converted into a format that can be used for modeling purposes. The data is split into a training set and a test set, with the training set used to train the classification model and the test set used to evaluate its performance.
+
+Text Mining and Classification
+Text mining techniques are used to extract meaningful information from the discussion posts, including features such as word frequency, word co-occurrence, and sentiment. These features are then used to train a classification model that can predict the category of a new discussion post based on its content.
+
+Several different classification algorithms are used for this project, including SVD,Random Forest,Stochastic Gradient Descent Classifier. The performance of each algorithm is evaluated using various metrics, including accuracy, precision, recall, and F1 score, to determine which algorithm performs the best for predicting the category of discussion posts.
+
+Conclusion
+Text mining and classification techniques can be used to predict the category of discussion posts in a newsgroup based on their content. This project demonstrates the use of several different classification algorithms and evaluation metrics to determine which algorithm performs the best for this task. The results of this project can be used to inform decisions about which algorithm to use for similar text classification tasks in the future.
+
+
+
+
+
