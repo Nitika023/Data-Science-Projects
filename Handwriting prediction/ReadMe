@@ -5,8 +5,7 @@ Data
 The MNIST dataset is used for this project, and it consists of a training set of 60,000 images and a test set of 10,000 images. Each image is 28x28 pixels and is represented by a 784-dimensional vector. The data is preprocessed and normalized before being used for modeling purposes.
 
 Modeling Approaches
-Three different modeling approaches are used for this project: logistic regression, random forest, and convolutional neural network (CNN). Logistic regression is a simple linear model that is commonly used for classification tasks. Random forest is an ensemble method that is known for its high accuracy and robustness. CNN is a deep learning approach that has achieved state-of-the-art performance on image recognition tasks.
-
+Three different modeling approaches are used for this project: Keras, Neural network, decision tree
 Evaluation
 The performance of the models is evaluated using various metrics, including accuracy, precision, recall, and F1 score. The evaluation metrics are used to compare the performance of the three models and to determine which model performs the best for predicting handwritten digits.
 
