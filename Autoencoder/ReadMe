@@ -1,0 +1,16 @@
+Autoencoder for Recognizing Digits and First Character of Your First Name
+This exercise aims to create an autoencoder that can recognize 10 digits and the first character of your first name. Follow the steps below to complete this exercise:
+
+Step 1: Create Images of the First Letter of Your First Name
+Create five 28x28 pixel images of the first letter of your first name to be used for training. You can use any drawing or photo software to create these images. Make sure that the background is black and the letter is white. Save these images as PNG files.
+
+Step 2: Load MNIST Dataset and Display Predictions
+Create a notebook and load the MNIST dataset following the tutorial from class. Load the supplied autoencoder (digits.a5) and display the predictions for several random digits. Compare these predictions to the original images to see how well the autoencoder performs.
+
+Step 3: Train a New Autoencoder
+Create a new autoencoder and train it with the MNIST dataset and the five images you created in Step 1. Oversample these images and add enough copies to the MNIST dataset to ensure that your model can identify your new character.
+
+Step 4: Demonstrate Your New Encoding
+Show the autoencoder recreating a random set of digits and your new character to demonstrate how well your new autoencoder performs.
+Conclusion
+This exercise is relatively easy if you understand the material in the in-class tutorial on autoencoders. Be sure to spend time reviewing the tutorial and experimenting with the code to fully understand how things work. This exercise will challenge you to use that knowledge to create a new autoencoder that can recognize digits and the first character of your first name.
