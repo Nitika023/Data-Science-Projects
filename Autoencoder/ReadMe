@@ -16,8 +16,7 @@ Step 4: Demonstrate Your New Encoding
 Finally, the new autoencoder's performance is demonstrated by recreating a random set of digits and the user's first character.
 
 Conclusion:
-This project provides an opportunity to understand and experiment with autoencoders. It is essential to review the in-class tutorial and experiment with the code to grasp the concept fully. The project presents a challenge to create an autoencoder that can recognize digits and the first letter of the user's first name.
-
+This project provides an opportunity to understand and experiment with autoencoders. 
 
 
 
