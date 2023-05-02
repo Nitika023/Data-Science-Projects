@@ -1,0 +1,24 @@
+Heart Disease Predictive Model
+The aim of this project is to create a predictive model using patient characteristics that can determine if a patient has heart disease or not. If the model proves effective, it could be utilized by the medical sector to anticipate heart disease in new patients who possess the necessary data. This would enable them to prioritize patients for diagnostic testing, surgeries, and other treatments.
+
+This project utilizes logistic regression, SVM, decision tree, and neural net models to create a binary classifier that can predict whether an individual has heart disease or not. The primary goal is to select the model that minimizes false negatives, as this has severe consequences. Additionally, high accuracy values are desirable, particularly true positives, given the evenly split data.
+
+Evaluation Metrics
+The evaluation metrics employed for assessing the performance of the models are carefully chosen based on their suitability for binary classification models. The rationale behind the selection of these metrics is explained in detail in the project report. The chosen metrics are:
+
+Accuracy
+Precision
+Recall
+F1 Score
+Area Under the Curve (AUC)
+Parameter Tuning
+To test a variety of parameter values for each model, both random and grid searches are performed. The aim is to identify the optimal hyperparameters for each model that produce the best predictive performance. The project report provides details on the parameter tuning process for each model.
+
+Conclusion
+The development of an accurate heart disease predictive model can greatly benefit the medical sector by allowing them to prioritize patients for diagnostic testing, surgeries, and other treatments. This project successfully explores the use of logistic regression, SVM, decision tree, and neural net models to create a binary classifier that can predict whether an individual has heart disease or not. The evaluation metrics and parameter tuning process used in this project ensure that the selected model has the best predictive performance.
+
+
+
+
+
+Regenerate response
