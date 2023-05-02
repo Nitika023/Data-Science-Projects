@@ -1,7 +1,5 @@
 The Universal bank conducted a marketing campaign to sell their new CD account product to existing customers and reached out to 5000 of their non-CD account customers with an offer. The dataset provided in the "universal.csv" file contains the results of this market test.
 
-The goal of this project is to load and clean the data using the techniques covered in class, and then identify the best predictive model for the target variable of CD Account, using only the models covered so far (Logistic Regression, SVM with various kernels, and Decision Trees). The scoring measure for this project is recall, and we will use RandomSearchCV combined with GridSearchCV to identify the best parameters for each model tested.
-
-Throughout the project, we will document our thought process using markdown, which will serve as a report for our manager to read. We will carefully consider how to process the provided data (i.e., encoding) and provide arguments and observations in markdown as we progress through data preparation, fitting, and performance evaluation.
+The goal of this project is to load and clean the data using the techniques covered in class, and then identify the best predictive model for the target variable of CD Account, using  the models: Logistic Regression, SVM with various kernels, and Decision Trees. The scoring measure for this project is recall, using RandomSearchCV combined with GridSearchCV to identify the best parameters for each model tested.
 
 Ultimately, the results obtained from this project can be used to inform future marketing campaigns for the Universal bank and help them to maximize their success in targeting existing customers with new products.
